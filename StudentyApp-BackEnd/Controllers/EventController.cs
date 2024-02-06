@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using StudentyApp_BackEnd.Data;
 
 namespace StudentyApp_BackEnd.Controllers
 {
